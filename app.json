@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Lab3UDDD",
-    "slug": "Lab3UDDD",
+    "name": "ContactLists",
+    "slug": "ContactLists",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
